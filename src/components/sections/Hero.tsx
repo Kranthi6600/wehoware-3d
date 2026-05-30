@@ -142,7 +142,7 @@ export default function Hero() {
       suppressHydrationWarning
       className="relative min-h-screen border-b border-white/10 overflow-hidden flex items-center"
       style={{
-        background: "radial-gradient(ellipse 80% 60% at 50% 0%, rgba(255,90,0,0.12) 0%, transparent 70%), rgba(13,13,13,0.65)",
+        background: "radial-gradient(ellipse 80% 60% at 50% 0%, rgba(255,90,0,0.12) 0%, transparent 70%), #0D0D0D",
       }}
     >
       {/* Wave transition */}

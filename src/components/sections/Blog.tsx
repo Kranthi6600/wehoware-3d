@@ -4,7 +4,7 @@ export default function Blog() {
   return (
     <section
       className="relative min-h-screen flex items-center justify-center border-b border-white/10 overflow-hidden"
-      style={{ background: "rgba(13,13,13,0.65)" }}
+      style={{ background: "#0D0D0D" }}
     >
       {/* Orange glow blob — top right */}
       <div
